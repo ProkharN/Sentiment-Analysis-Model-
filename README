@@ -1,0 +1,11 @@
+This educational project consists of a practical component and a report detailing the work done and the results.
+
+In the documentation folder, you can find the research report and a list of the literature used.
+
+In the practical section folder, you can find the database used in the project, as well as documents containing the code used for analyzing this database.
+
+The "Normalizer" file includes code for primary data preprocessing.
+
+The "Data Mining" file contains code for sentiment analysis of each object in the dataset, based on code from the NLTK library.
+
+The "Visualization" file contains code that can be used to visualize the data obtained after processing the dataset.
